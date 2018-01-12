@@ -1,0 +1,6 @@
+C:\Personal\Study\DSA Testing\DSA Testing\bin\Debug\DSA Testing.exe.config
+C:\Personal\Study\DSA Testing\DSA Testing\obj\Debug\DSA Testing.csprojResolveAssemblyReference.cache
+C:\Personal\Study\DSA Testing\DSA Testing\bin\Debug\DSA Testing.exe
+C:\Personal\Study\DSA Testing\DSA Testing\bin\Debug\DSA Testing.pdb
+C:\Personal\Study\DSA Testing\DSA Testing\obj\Debug\DSA Testing.exe
+C:\Personal\Study\DSA Testing\DSA Testing\obj\Debug\DSA Testing.pdb
